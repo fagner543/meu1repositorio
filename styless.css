@@ -1,0 +1,23 @@
+
+
+   /* CSS =>FOLHA DE ESTILO EM CASCATA , SEMPRE
+   ESTILISA DE CIMA PARA BAIXO */
+
+   .vo{}
+
+   .pai{
+       width: 100px;
+       height:100px;
+       background: blue;
+   
+   }
+   
+   .filho {
+
+    width: 50%;
+    height: 50%;
+background: red;
+
+
+}
+
